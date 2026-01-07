@@ -1,2 +1,2 @@
 # gitDemo-26
-To learn github
+To learn github.
